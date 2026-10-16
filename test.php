@@ -40,7 +40,7 @@ $datosPersonales = [
     Nombre del Alumno. reemplaza nombre y apellido por tu nombre y apellido real.
     */
 
-    "alumno" => "Ariana Tovar",
+    "alumno" => "Helen Garrado Garcia",
 
 
 
@@ -48,7 +48,7 @@ $datosPersonales = [
     Correo electrónico del alumno. reemplaza nombreApellido por tu nombre y apellido real.
     */
 
-    "email" => "ariana.tovar.et7@gmail.com"
+    "email" => "helengarciaet7@gmail.com"
 
 ];
 
@@ -73,7 +73,7 @@ $host = "localhost";
 
 $dbname = "test_db";
 
-$usuario = "arianatovar";
+$usuario = "Helen Garrado Garcia";
 
 $password = "user.123$";
 

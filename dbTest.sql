@@ -3,8 +3,8 @@ CREATE DATABASE IF NOT EXISTS test_db;
 USE test_db;
 
 -- Creamos el usuario local y lo limitamos solo a esta base de datos
-CREATE USER IF NOT EXISTS 'arianatovar'@'localhost' IDENTIFIED BY 'user.123$';
-GRANT ALL PRIVILEGES ON test_db.* TO 'arianatovar'@'localhost';
+CREATE USER IF NOT EXISTS 'HelenGarradoGarcia'@'localhost' IDENTIFIED BY 'user.123$';
+GRANT ALL PRIVILEGES ON test_db.* TO 'HelenGarradoGarcia'@'localhost';
 FLUSH PRIVILEGES;
 
 -- Verificacion opcional:
